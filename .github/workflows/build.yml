@@ -1,4 +1,4 @@
-name: Adyeshach Build
+name: Build
 on:
   push:
     branches:
